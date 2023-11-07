@@ -15,20 +15,19 @@ h1, h2, h3, h4, h5, h6{
 }
 a{
 	color: var(--text-color);
-    text-decoration: none;
+	text-decoration: none;
 }
-
 .visually-hidden{
 	display: none;
 }
 .card-category{
 	color: var(--color-primary);
 }
-.section-tagline{
-	color: var(--color-primary);
-}
 .section-header{
 	text-align: var(--section-header-align);
+}
+.section-tagline{
+	color: var(--color-primary);
 }
 :root{
 	--color-primary: #d73953;
@@ -49,4 +48,5 @@ a{
 	--line-height-small: 1.2;
 	--line-height-base: 1.5;
 	--line-height-big: 1.8;
+	--section-header-align: center;
 }
