@@ -1,3 +1,3 @@
-/* Keyword values */
-scroll-behavior: auto;
+html{
 scroll-behavior: smooth;
+}
