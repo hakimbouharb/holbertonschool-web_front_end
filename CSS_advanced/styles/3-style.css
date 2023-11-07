@@ -1,6 +1,6 @@
 html{
     scroll-behavior: smooth;
-    }
+}
 body, a{
     color:  var(--text-color);    
 }
@@ -9,7 +9,7 @@ body, a{
 }
 
 .section-tagline, .card-category{
-    color:var(--color-primary);
+    color: var(--color-primary);
 }
 :root{
     color-primary:#d73953;
